@@ -1,0 +1,6 @@
+{
+  "name": "jacobjs",
+  "keywords": ["json","format","validation"],
+  "description":"a json format validation tool",
+  "repository": "https://github.com/mqli/jacob.git"
+}
